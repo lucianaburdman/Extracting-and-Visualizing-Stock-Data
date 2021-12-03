@@ -1,6 +1,6 @@
 # Project Overview
 
-For this project, I assume the role of a Data Scientist working for a new startup investment firm that helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I visualized it in a dashboard to identify patterns or trends. The stocks are Tesla, Amazon, AMD, and GameStop.
+For this project, I assume the role of a Data Scientist working for a new startup investment firm that helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I visualized it in a dashboard to identify patterns or trends. The stocks are Tesla and GameStop.
 
 ## Certificate
 Final Certificate of the course can be viewed from this [link](https://coursera.org/share/e22c886a7e36e2e520b379f2de888a5a).
